@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello , DevOps!'
+echo 'Hello , DevOps group!'
